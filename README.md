@@ -26,6 +26,9 @@ I build predictive systems for real-world dynamic environments including:
 
 ## 🚀 Featured Portfolio
 
+### 🌍 Advanced Dynamical Systems Portfolio
+Cross-domain state space systems for healthcare, finance, energy, robotics, and logistics.
+
 ### 🏭 Hybrid State Space Predictive Maintenance
 Latent degradation modeling + Kalman filtering + ML failure prediction + causal intervention analysis.
 
