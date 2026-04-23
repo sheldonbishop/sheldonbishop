@@ -32,7 +32,7 @@ Cross-domain state space systems for healthcare, finance, energy, robotics, and 
 ### 🏭 Hybrid State Space Predictive Maintenance
 Latent degradation modeling + Kalman filtering + ML failure prediction + causal intervention analysis.
 
-### 🏭 Garment Machine Predictive Maintenance
+### 🏭 Azure Predictive Maintenance System for Garment Machines
 Latent degradation modeling + Kalman filtering + ML failure prediction + causal intervention analysis.
 
 ### 🌍 Advanced Dynamical Systems Portfolio
